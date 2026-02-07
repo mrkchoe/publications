@@ -10,8 +10,8 @@ direct involvement in each individual analysis.
 
 ---
 
-**Author profiles:**  
-Google Scholar → [https://scholar.google.com/citations?user=XXXX](https://scholar.google.com/citations?user=dlhfY5wAAAAJ&hl=en&oi=ao)
+## Author Profile:## 
+Google Scholar → [https://scholar.google.com/citations](https://scholar.google.com/citations?user=dlhfY5wAAAAJ&hl=en&oi=ao)
 
 ## Authorship Context
 
