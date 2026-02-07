@@ -8,10 +8,10 @@ publications reflects **shared contributions to structural MRI data processing
 and infrastructure** that supported multiple downstream studies, rather than
 direct involvement in each individual analysis.
 
----
-
-## Author Profile:## 
+## Author Profile: 
 Google Scholar → [https://scholar.google.com/citations](https://scholar.google.com/citations?user=dlhfY5wAAAAJ&hl=en&oi=ao)
+
+---
 
 ## Authorship Context
 
